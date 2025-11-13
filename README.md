@@ -1,7 +1,5 @@
-# krunchboard-v2
-A custom 75% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
-
-# Note
+# krunchboard-90
+A custom 75% (84+5) ANSI mechanical keyboard powered by a Raspberry Pi Pico with KMK
 
 # About
 
@@ -27,5 +25,8 @@ A custom 75% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
 | Qty | Item                               | Notes                                     | Cost (USD) | URL                                                                                                         |
 |-----|------------------------------------|-------------------------------------------|------------|---|
 
+<img width="1287" height="646" alt="image" src="https://github.com/user-attachments/assets/a6d9c0a7-105f-4462-adfb-cb81cb85eb3d" />
 
-![Blueprint Logo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f6803a08b5ffa2e1d8b41eab943eb833fc5355cf_stickers.png)
+<img width="1168" height="469" alt="image" src="https://github.com/user-attachments/assets/2ded0688-0181-432d-94ba-cc0eb9f61813" />
+
+<img width="939" height="356" alt="blueprint_logo_centered" src="https://github.com/user-attachments/assets/f3029de2-d126-4f55-88a8-540c89e0984f" />
