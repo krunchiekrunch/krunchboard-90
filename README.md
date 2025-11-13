@@ -22,8 +22,25 @@ A custom 75% (84+5) ANSI mechanical keyboard powered by a Raspberry Pi Pico with
 
 # BOM
 
-| Qty | Item                               | Notes                                     | Cost (USD) | URL                                                                                                         |
-|-----|------------------------------------|-------------------------------------------|------------|---|
+| Qty | Item                                         | Notes                                     | Cost (USD) | URL                                                                                                         |
+|-----|----------------------------------------------|-------------------------------------------|------------|-----|
+| 91  | MX-Style key switches                        | Already have                              | 0.00       | N/A |
+| 91  | Kailh MX hotswap socket                      | Already have                              | 0.00       | N/A |
+| 92  | 1N4148W SOD-123 Diode                        | Already have                              | 0.00       | N/A |
+| 1   | EC11E Rotary encoder (With switch)           | Already have                              | 0.00       | N/A |
+| 3   | 2u MX Stabilizer                             | Already have                              | 0.00       | N/A |
+| 1   | 6.25u MX Stabilizer                          | Already have                              | 0.00       | N/A |
+| 1   | Keycaps set                                  | Already have                              | 0.00       | N/A |
+| 1   | USB-C Pi Pico clone                          | Already have                              | 0.00       | N/A |
+| 1   | USB-C Socket (SMD)                           | Already have                              | 0.00       | N/A |
+| 2   | 5.1k 0402 SMD resistor                       | Already have                              | 0.00       | N/A |
+| 4   | M2 Screw (13.9mm max)                        | Already have                              | 0.00       | N/A |
+| 4   | M2 Heatset Insert (OD3.2mm, 3mm deep)        | Already have                              | 0.00       | N/A |
+| 6   | Stick-on rubber feet                         | Already have                              | 0.00       | N/A |
+| 1   | PCB                                          | dont have (Shipping included)             | 32.01      | [JLCPCB](https://jlcpcb.com)
+| 1   | 3D Printed case and plate                    | print-legion                              | 4.60       | N/A |
+|     |                                              | Total:                                    | 36.61      |     |
+
 
 <img width="1287" height="646" alt="image" src="https://github.com/user-attachments/assets/a6d9c0a7-105f-4462-adfb-cb81cb85eb3d" />
 
