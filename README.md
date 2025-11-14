@@ -1,8 +1,8 @@
 # krunchboard-90
-A custom 75% (84+4+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico with KMK
+A custom 75% (84+5+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico with KMK
 
 # About
-This keyboard has 84 regular keys, 4 programmable macro keys, and 1 switch within the rotary encoder.
+This keyboard has 84 regular keys, 5 programmable macro keys, and 1 switch within the rotary encoder.
 
 # Images
 
