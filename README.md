@@ -34,8 +34,8 @@ This keyboard has 84 regular keys, 5 programmable macro keys, and 1 switch withi
 | 4   | M2 Screw (13.9mm max)                        | Already have                              | 0.00       | N/A |
 | 4   | M2 Heatset Insert (OD3.2mm, 3mm deep)        | Already have                              | 0.00       | N/A |
 | 6   | Stick-on rubber feet (Optional)              | Already have                              | 0.00       | N/A |
-| 1   | PCB                                          | (Shipping included)                       | 32.01      | [JLCPCB](https://jlcpcb.com) |
+| 1   | PCB                                          | (Shipping included + $20 coupon)          | 12.01      | [JLCPCB](https://jlcpcb.com) |
 | 1   | 3D Printed case and plate                    | print-legion                              | 4.60       | N/A |
-|     |                                              | Total:                                    | 36.61      |     |
+|     |                                              | Total:                                    | 16.61      |     |
 
 <img width="939" height="356" alt="blueprint_logo_centered" src="https://github.com/user-attachments/assets/f3029de2-d126-4f55-88a8-540c89e0984f" />
