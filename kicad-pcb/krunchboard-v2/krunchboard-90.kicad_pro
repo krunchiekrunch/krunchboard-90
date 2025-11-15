@@ -54,55 +54,55 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "silk_overlap|299374400|31100000|22206abb-ad7b-4f51-a183-904c3ce12be2|64677bfa-4b2c-4a6b-b6d6-2013aef13564",
+          "lib_footprint_mismatch|139421000|185614200|b69611a7-d31a-4045-95e1-51b809b76994|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "unconnected_items|100076000|130124200|F.Cu|4|0407ca04-90f9-4d41-934c-f567a88bb739|c894b6ab-4be5-4d54-ab17-2cfc2364d6f4",
+          "silk_overlap|314456900|86590000|22206abb-ad7b-4f51-a183-904c3ce12be2|64677bfa-4b2c-4a6b-b6d6-2013aef13564",
           ""
         ],
         [
-          "unconnected_items|104926000|120434200|F.Cu|4|96c202bb-93c3-45a1-a517-6e3837880d3b|0407ca04-90f9-4d41-934c-f567a88bb739",
+          "unconnected_items|115158500|185614200|F.Cu|4|0407ca04-90f9-4d41-934c-f567a88bb739|c894b6ab-4be5-4d54-ab17-2cfc2364d6f4",
           ""
         ],
         [
-          "unconnected_items|104926000|120434200|F.Cu|4|96c202bb-93c3-45a1-a517-6e3837880d3b|18f2f133-9d20-4d1a-bf9a-d71b224811a1",
+          "unconnected_items|120008500|175924200|F.Cu|4|96c202bb-93c3-45a1-a517-6e3837880d3b|0407ca04-90f9-4d41-934c-f567a88bb739",
           ""
         ],
         [
-          "unconnected_items|104926000|139814200|F.Cu|4|c894b6ab-4be5-4d54-ab17-2cfc2364d6f4|f6ac92ab-ffeb-41a1-812b-6a4bdd64891f",
+          "unconnected_items|120008500|195304200|F.Cu|4|c894b6ab-4be5-4d54-ab17-2cfc2364d6f4|f6ac92ab-ffeb-41a1-812b-6a4bdd64891f",
           ""
         ],
         [
-          "unconnected_items|117626000|139814200|F.Cu|4|f6ac92ab-ffeb-41a1-812b-6a4bdd64891f|de876e22-f770-4afc-81ac-bc0f768f659e",
+          "unconnected_items|132708500|175924200|F.Cu|4|a1765d4f-be38-4f55-92b5-5d33b6a06f01|96c202bb-93c3-45a1-a517-6e3837880d3b",
           ""
         ],
         [
-          "unconnected_items|121728000|124536200|F.Cu|4|7795c831-fb81-4f86-adc1-6e0ae0072217|1ce8f9e3-d4e5-46d8-a315-971fff6e4d12",
+          "unconnected_items|132708500|195304200|F.Cu|4|f6ac92ab-ffeb-41a1-812b-6a4bdd64891f|de876e22-f770-4afc-81ac-bc0f768f659e",
           ""
         ],
         [
-          "unconnected_items|142824200|120232400|F.Cu|4|79570ff7-99ac-4c8b-840e-e2de5869f303|1ce8f9e3-d4e5-46d8-a315-971fff6e4d12",
+          "unconnected_items|145408500|175924200|F.Cu|4|1ce8f9e3-d4e5-46d8-a315-971fff6e4d12|7795c831-fb81-4f86-adc1-6e0ae0072217",
           ""
         ],
         [
-          "unconnected_items|143026000|139814200|F.Cu|4|9b89da3e-b23e-40e3-9feb-d63606cfa585|03b23b33-5644-4129-b470-e2d01c134211",
+          "unconnected_items|145408500|175924200|F.Cu|4|1ce8f9e3-d4e5-46d8-a315-971fff6e4d12|79570ff7-99ac-4c8b-840e-e2de5869f303",
           ""
         ],
         [
-          "unconnected_items|144976000|130124200|F.Cu|4|03b23b33-5644-4129-b470-e2d01c134211|5a371424-fbc5-4aa7-942d-00c91db43a28",
+          "unconnected_items|145408500|195304200|F.Cu|4|de876e22-f770-4afc-81ac-bc0f768f659e|9b89da3e-b23e-40e3-9feb-d63606cfa585",
           ""
         ],
         [
-          "unconnected_items|292732500|25782500|F.Cu|4|e4f272cf-26b1-46c7-8971-38ace5181a8a|1f308b0c-06c0-45d4-bc5e-5bcf8d3777a7",
+          "unconnected_items|307336900|84974400|F.Cu|4|1f308b0c-06c0-45d4-bc5e-5bcf8d3777a7|786c5f76-a568-40da-a6db-c2cec9ad8504",
           ""
         ],
         [
-          "unconnected_items|297500000|25782500|F.Cu|4|6d760810-83ae-40da-82c1-9a25f5ed32d0|61c711c8-da60-4065-8248-ed7848c80fcc",
+          "unconnected_items|315976900|80794400|F.Cu|4|61c711c8-da60-4065-8248-ed7848c80fcc|6d760810-83ae-40da-82c1-9a25f5ed32d0",
           ""
         ],
         [
-          "unconnected_items|300894400|25304400|F.Cu|4|61c711c8-da60-4065-8248-ed7848c80fcc|eb1190f7-06c5-48b9-8e8d-cc670cdacb45",
+          "unconnected_items|315976900|80794400|F.Cu|4|61c711c8-da60-4065-8248-ed7848c80fcc|eb1190f7-06c5-48b9-8e8d-cc670cdacb45",
           ""
         ]
       ],
@@ -542,7 +542,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "krunchboard-v2.kicad_pro",
+    "filename": "krunchboard-90.kicad_pro",
     "version": 3
   },
   "net_settings": {
