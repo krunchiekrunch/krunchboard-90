@@ -230,7 +230,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "krunchboard-v2-plate.kicad_pro",
+    "filename": "krunchboard-90-plate.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -269,7 +269,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/plate.stl",
+      "step": "../../../../Downloads/krunchboard-plate.stl",
       "svg": "",
       "vrml": ""
     },
