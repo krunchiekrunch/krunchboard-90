@@ -13,9 +13,9 @@ This keyboard has 84 regular keys, 5 programmable macro keys, and 1 switch withi
 | ![PCB](assets/pcb.png)   | ![3D-Front](assets/3dfront.png) |
 | ![Case](assets/case.png) | ![3D-Back](assets/3dback.png)   | 
 
-<img width="1287" height="646" alt="image" src="https://github.com/user-attachments/assets/a6d9c0a7-105f-4462-adfb-cb81cb85eb3d" />
+![Blender](assets/blender1.png)
 
-<img width="1168" height="469" alt="image" src="https://github.com/user-attachments/assets/2ded0688-0181-432d-94ba-cc0eb9f61813" />
+![Blender](assets/blender2.png)
 
 # BOM
 
