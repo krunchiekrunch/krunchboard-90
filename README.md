@@ -32,7 +32,7 @@ This keyboard has 84 regular keys, 5 programmable macro keys, and 1 switch withi
 | 1   | Keycaps set                                  | Already have                              | 0.00       | N/A |
 | 1   | Raspbery Pi Pico (RP2040 or RP2350)          | Already have                              | 0.00       | N/A |
 | 1   | USB-C Socket (SMD)                           | Already have                              | 0.00       | N/A |
-| 2   | 5.1k 0402 SMD resistor                       | Already have                              | 0.00       | N/A |
+| 2   | 5.1k 0805 SMD resistor                       | Already have                              | 0.00       | N/A |
 | 4   | M2 Screw (13.9mm max)                        | Already have                              | 0.00       | N/A |
 | 4   | M2 Heatset Insert (OD3.2mm, 3mm deep)        | Already have                              | 0.00       | N/A |
 | 6   | Stick-on rubber feet (Optional)              | Already have                              | 0.00       | N/A |
