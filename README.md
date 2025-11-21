@@ -4,6 +4,8 @@ A custom 75% (84+5+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico wi
 # About
 This keyboard has 84 regular keys, 5 programmable macro keys, and 1 switch within the rotary encoder.
 
+[KLE](https://www.keyboard-layout-editor.com/##@@_a:6%3B&=Esc&_a:4%3B&=F1%0AMute&=F2%0AVOLD&=F3%0AVOLU&=F4%0APrev&=F5%0APause&=F6%0ANext&_a:6%3B&=F7&=F8&=F9&=F10&_a:4%3B&=F11%0ABRID&=F12%0ABRIU&_a:5%3B&=PrtSc%0ANmLk&=Pause%0AScrLk&=Delete%0AInsert&_a:4%3B&=Rotary%0AMute%3B&@=~%0A%60&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_a:6&w:2%3B&=Backspace&=Home&_a:7%3B&=%3B&@_a:4&w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_a:6%3B&=Page%20Up&_a:7%3B&=%3B&@_a:4&w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_a:6&w:2.25%3B&=Enter&=Page%20Down&_a:7%3B&=%3B&@_a:6&w:2.25%3B&=Shift&_a:4%3B&=Z&=X&=C&=V&=B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_a:6&w:1.75%3B&=Shift&_a:7%3B&=%E2%86%91&_a:6%3B&=End&_a:7%3B&=%3B&@_a:6&w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:6.25%3B&=&_a:6%3B&=Alt&=Fn&=Ctrl&_a:7%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92&=)
+
 # Images
 
 ![Schematic](assets/schematic.png)
