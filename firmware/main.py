@@ -1,4 +1,5 @@
 import board
+import digitalio
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners.keypad import MatrixScanner
 from kmk.keys import KC
@@ -10,9 +11,9 @@ from kmk.modules.macros import Macros, Press, Release, Tap
 from kmk.modules.mouse_keys import MouseKeys
 from kmk.extensions.media_keys import MediaKeys
 from kmk.modules.encoder import EncoderHandler
+from kmk.modules.layers import Layers
 
 keyboard = KMKKeyboard()
-
 macros = Macros()
 keyboard.modules.append(macros)
 mouse = MouseKeys()
@@ -86,6 +87,11 @@ encoder_handler.map = [
     ((KC.VOLD, KC.VOLU),), # Volume
     ((KC.BRID, KC.BRIU),), # Brightness (Fn)
     ]
+
+# pico gp25 led
+led = digitalio.DigitalInOut(board.GP25)
+led.direction = digitalio.Direction.OUTPUT
+led.value = True
 
 if __name__ == '__main__':
     keyboard.go()
