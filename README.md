@@ -43,23 +43,22 @@ Rotary encoder:
 
 # BOM
 
-| Qty | Item                                         | Notes                                     | Cost (USD) | URL |
-|-----|----------------------------------------------|-------------------------------------------|-------- ---|-----|
-| 89  | MX-Style key switches                        | Already have                              | 0.00       | N/A |
-| 89  | Kailh MX hotswap socket                      | Already have                              | 0.00       | N/A |
-| 90  | 1N4148W SOD-123 Diode                        | Already have                              | 0.00       | N/A |
-| 1   | EC11E Rotary encoder (With switch)           | Already have                              | 0.00       | N/A |
-| 3   | 2u MX Stabilizer                             | Already have                              | 0.00       | N/A |
-| 1   | 6.25u MX Stabilizer                          | Already have                              | 0.00       | N/A |
-| 1   | ANSI Keycaps set                             | Already have                              | 0.00       | N/A |
-| 1   | Raspbery Pi Pico (RP2040 or RP2350)          | Already have                              | 0.00       | N/A |
-| 1   | USB-C Socket (SMD)                           | Already have                              | 0.00       | N/A |
-| 2   | 5.1k/4.7k 0805 SMD resistor                  | Already have                              | 0.00       | N/A |
-| 4   | M2 Screw (13.9mm max)                        | Already have                              | 0.00       | N/A |
-| 4   | M2 Heatset Insert (OD3.2mm, 3mm deep)        | Already have                              | 0.00       | N/A |
-| 6   | Stick-on rubber feet (Optional)              | Already have                              | 0.00       | N/A |
-| 1   | PCB                                          | (Shipping included + $20 coupon)          | 12.01      | [JLCPCB](https://jlcpcb.com) |
-| 1   | 3D Printed case and plate                    | print-legion                              | 4.60       | N/A |
-|     |                                              | Total:                                    | 16.61      |     |
+| Qty | Item                                         | Notes                                     | Cost (USD)       | URL |
+|-----|----------------------------------------------|-------------------------------------------|------------------|-----|
+| 89  | MX-Style key switches                        | Already have                              | 9.90             | [AE](https://www.aliexpress.com/item/1005002378701948.html) |
+| 89  | Kailh MX hotswap socket                      | Already have                              | 8.11             | [AE](https://www.aliexpress.com/item/1005007052649640.html) |
+| 90  | 1N4148W SOD-123 Diode                        | Already have                              | 2.32             | [AE](https://www.aliexpress.com/item/1005009063199018.html) |
+| 1   | EC11E Rotary encoder (With switch)           | Already have                              | 2.42             | [AE](https://www.aliexpress.com/item/1005008413622715.html) |
+| 3   | MX Stabilizer (3x2u, 1x6.25u)                | Already have                              | 2.42             | [AE](https://www.aliexpress.com/item/1005007212869086.html) |
+| 1   | ANSI Keycaps set                             | Already have                              | 7.00             | [AE](https://www.aliexpress.com/item/1005007321700850.html) |
+| 1   | Raspbery Pi Pico (RP2040 or RP2350)          | Already have                              | 2.30             | [AE](https://www.aliexpress.com/item/1005006054409042.html) |
+| 1   | USB-C Socket (SMD)                           | Already have                              | 1.00             | N/A |
+| 2   | 5.1k/4.7k 0805 SMD resistor                  | Already have                              | 1.00             | N/A |
+| 4   | M2 Screw (13.9mm max, I used 12mm)           | Already have                              | 1.42             | [AE](https://www.aliexpress.com/item/1005003670389142.html) |
+| 4   | M2 Heatset Insert (OD3.2mm, 3mm deep)        | Already have                              | 1.73             | [AE](https://www.aliexpress.com/item/1005007640664497.html) |
+| 6   | Stick-on rubber feet (Optional)              | Already have                              | 1.18             | [AE](https://www.aliexpress.com/item/1005006832476105.html) |
+| 1   | PCB                                          | (Shipping/Tax included + $20 coupon)      | 15.58            | [JLCPCB](https://jlcpcb.com) |
+| 1   | 3D Printed case and plate (Blueprint only)   | print-legion                              | 4.65             | N/A |
+|     |                                              | Total:                                    | 56.38 [20.23]    |     |
 
 <img width="939" height="356" alt="blueprint_logo_centered" src="https://github.com/user-attachments/assets/f3029de2-d126-4f55-88a8-540c89e0984f" />
