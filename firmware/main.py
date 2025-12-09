@@ -25,7 +25,7 @@ keyboard.modules.append(encoder_handler)
 keyboard.modules.append(Layers())
 keyboard.modules.append(tapdance)
 
-keyboard.go_slow_when_no_keys_pressed = False
+# keyboard.go_slow_when_no_keys_pressed = False
 
 # matrix
 keyboard.row_pins = (
