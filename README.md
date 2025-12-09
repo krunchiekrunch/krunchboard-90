@@ -61,4 +61,6 @@ Rotary encoder:
 | 1   | 3D Printed case and plate (Blueprint only)   | print-legion                              | 4.65             | N/A |
 |     |                                              | Total:                                    | 56.38 [20.23]    |     |
 
+<img width="786" height="415" alt="image" src="https://github.com/user-attachments/assets/4e1ccfb7-9477-4488-b210-9a7dd342993b" />
+
 <img width="939" height="356" alt="blueprint_logo_centered" src="https://github.com/user-attachments/assets/f3029de2-d126-4f55-88a8-540c89e0984f" />
