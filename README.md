@@ -6,19 +6,19 @@ This keyboard has 84 regular keys, 5 programmable macro keys, and 1 switch withi
 
 ## Special Keys
 
-Function:
+Media Controls:
 
-- Fn+F1: Previous media
+- Double tap F1: Previous media
 
-- Fn+F2: Pause media
+- Double tap F2: Pause media
 
-- Fn+F3: Next media
+- Double tap F3: Next media
 
 Rotary encoder:
 
 - Turn: Volume Up/Down
 
-- Press and turn: Brightness Up/Down
+- Press/Fn and turn: Brightness Up/Down
 
 - Double press: Mute
 
