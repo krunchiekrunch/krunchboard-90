@@ -1,3 +1,5 @@
+custom = "custom text" 
+
 import board
 # import digitalio
 from kmk.kmk_keyboard import KMKKeyboard
@@ -39,7 +41,7 @@ Fn = KC.MO(1)
 
 RSW = KC.TD(Fn, KC.MUTE)
 LOCKTD = KC.TD(KC.NO, KC.MACRO(Press(KC.LGUI), Delay(100), Tap(KC.L), Release(KC.LGUI)))
-text = KC.TD(KC.NO, KC.MACRO("text", Tap(KC.ENTER)))
+text = KC.TD(KC.NO, KC.MACRO(custom, Tap(KC.ENTER)))
 RMB = KC.TD(KC.MACRO(Release(KC.MB_RMB)), KC.MACRO(Press(KC.MB_RMB)),)
 
 F1 = KC.TD(KC.F1, KC.MPRV)
@@ -64,15 +66,14 @@ keyboard.keymap = [
         xxxxxxx,  KC.LSFT, KC.Z,  KC.X,    KC.C,  KC.V,  KC.B,     KC.N,  KC.M,  KC.COMMA, KC.DOT,  KC.SLASH,  xxxxxxx,  KC.RSFT,  KC.UP,   KC.END,   FPSPING,
         KC.LCTRL, KC.LGUI, xxxx,  KC.LALT, xxxx,  xxxx,  KC.SPACE, xxxx,  xxxx,  xxxxxxx,  KC.RALT, Fn,        KC.RCTRL, KC.LEFT,  KC.DOWN, KC.RIGHT, xxxxxxx,
     ],
-
     # Fn (Layer 1)
     [
-        xxxxxxx, xxxxxxx, xxxxxxx,   xxxxxxx,   xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,  xxxxxxx,  xxxxxxx,  xxxxxxx, xxxxxxx, KC.NLCK, KC.SLCK, KC.INS,  _______,
-        _______, _______, _______,   _______,   _______, _______, _______, _______, _______,  _______,  _______,  _______, _______, _______, _______, _______, _______,
-        _______, _______, KC.RESET,  KC.RLD,    _______, _______, _______, _______, _______,  KC.MS_UP, _______,  _______, _______, _______, _______, _______, _______,
-        _______, _______, _______,   _______,   _______, _______, _______, _______, KC.MS_LT, KC.MS_DN, KC.MS_RT, _______, _______, _______, _______, _______, text,
-        _______, _______, KC.MB_LMB, KC.MB_RMB, _______, _______, _______, _______, _______,  _______,  _______,  _______, _______, _______, _______, _______, _______,
-        _______, _______, _______,   _______,   _______, _______, _______, _______, _______,  _______,  _______,  _______, _______, _______, _______, _______, RMB,
+        xxxxxxx, xxxxxxx, xxxxxxx,  xxxxxxx,  xxxxxxx,  xxxxxxx,   xxxxxxx,  xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,  xxxxxxx, xxxxxxx, KC.NLCK, KC.SLCK, KC.INS,  _______,
+        _______, _______, _______,  _______,  _______,  _______,   _______,  _______, _______, _______, _______,  _______, _______, _______, _______, _______, _______,
+        _______, _______, _______,  KC.MS_UP, _______,  KC.MB_LMB, KC.MW_UP, _______, _______, _______, _______,  _______, _______, _______, _______, _______, _______,
+        _______, _______, KC.MS_LT, KC.MS_DN, KC.MS_RT, KC.MB_RMB, KC.MW_DN, _______, _______, _______, _______,  _______, _______, _______, _______, _______, text,
+        _______, _______, _______,  _______,  _______,  _______,   _______,  _______, _______, _______, _______,  _______, _______, _______, _______, _______, _______,
+        _______, _______, _______,  _______,  _______,  _______,   _______,  _______, _______, _______, _______,  _______, _______, _______, _______, _______, RMB,
     ]
 ]
 
