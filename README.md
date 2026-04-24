@@ -37,9 +37,9 @@ Rotary encoder:
 
 ![Blender](assets/blender2.png)
 
-<img src="https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOTQsInB1ciI6ImJsb2JfaWQifX0=--82d28483bcf3d2168c43987cadd61d1d6c9e4d48/IMG_9164.JPG" alt="IMG_9164"/>
+![](assets/IMG_9498.JPG)
 
-<img src="https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOTEsInB1ciI6ImJsb2JfaWQifX0=--b00a1015af30519cd7abb044ee00b0269f8b2603/IMG_9152.JPG" alt="IMG_9152"/>
+![](assets/IMG_9502.JPG)
 
 # BOM
 
