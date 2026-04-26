@@ -17,11 +17,11 @@ from kmk.modules.tapdance import TapDance
 keyboard = KMKKeyboard()
 macros = Macros()
 keyboard.modules.append(macros)
-mouse = MouseKeys()
 encoder_handler = EncoderHandler()
 tapdance = TapDance()
 tapdance.tap_time = 250
-keyboard.modules.append(MouseKeys())
+mousekeys = MouseKeys(acc_interval = 10)
+keyboard.modules.append(mousekeys)
 keyboard.extensions.append(MediaKeys())
 keyboard.modules.append(encoder_handler)
 keyboard.modules.append(Layers())
